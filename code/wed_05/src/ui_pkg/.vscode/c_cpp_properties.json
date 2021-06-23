@@ -1,0 +1,52 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/robot/catkin_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_05/src/alarm_package/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_07/fri-team07-proj/autoslam/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_02/buaa_team02/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_01/fri01_apps/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_08/include/**",
+        "/home/robot/catkin_ws/src/iai_kinect2/kinect2_bridge/include/**",
+        "/home/robot/catkin_ws/src/iai_kinect2/kinect2_calibration/include/**",
+        "/home/robot/catkin_ws/src/iai_kinect2/kinect2_registration/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_09/robot_project/src/laji_dbsrv/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_09/robot_project/src/laji_gui/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_09/robot_project/src/laji_robot/include/**",
+        "/home/robot/catkin_ws/src/lidar/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_07/fri-team07-proj/my_face_package/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_07/fri-team07-proj/my_nav_package/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_06/nav_node/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_05/src/nav_pkg/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/qiyu1/qiyu1wpb_home_apps/include/**",
+        "/home/robot/catkin_ws/src/rrt_exploration/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_07/src/serbot/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_06/src/test_pkg/include/**",
+        "/home/robot/catkin_ws/src/tf2_web_republisher-develop/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_05/src/ui_pkg/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_07/fri-team07-proj/voice_interaction/include/**",
+        "/home/robot/catkin_ws/src/waterplus_map_tools/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_06/web_06_demo/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_04/wed04_nav_pkg/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_04/wed04_voice_pkg/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_04/wed04_wpb_home_apps/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_02/wed_02_obstacle_detection/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_02/wed_02_sr_pkg/include/**",
+        "/home/robot/catkin_ws/src/wpb_home/wpb_home_apps/include/**",
+        "/home/robot/catkin_ws/src/wpb_home/wpb_home_bringup/include/**",
+        "/home/robot/catkin_ws/src/wpb_home/wpb_home_tutorials/include/**",
+        "/home/robot/catkin_ws/src/wpb_home/wpbh_local_planner/include/**",
+        "/home/robot/catkin_ws/src/xfyun_waterplus/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

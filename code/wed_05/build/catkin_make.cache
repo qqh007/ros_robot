@@ -1,0 +1,2 @@
+alarm_package:nav_pkg:ui_pkg
+-DCATKIN_DEVEL_PREFIX=/home/robot/catkin_ws/src/2021_embedded/wed_05/devel -DCMAKE_INSTALL_PREFIX=/home/robot/catkin_ws/src/2021_embedded/wed_05/install -G Unix Makefiles

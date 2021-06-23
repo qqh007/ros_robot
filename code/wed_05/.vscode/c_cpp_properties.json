@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/robot/catkin_ws/devel/include/**",
+        "/opt/ros/kinetic/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_05/src/alarm_package/include/**",
+        "/home/robot/catkin_ws/src/iai_kinect2/kinect2_bridge/include/**",
+        "/home/robot/catkin_ws/src/iai_kinect2/kinect2_calibration/include/**",
+        "/home/robot/catkin_ws/src/iai_kinect2/kinect2_registration/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_09/robot_project/src/laji_gui/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/fri_09/robot_project/src/laji_robot/include/**",
+        "/home/robot/catkin_ws/src/lidar/include/**",
+        "/home/robot/catkin_ws/src/my_nav_package/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_06/mytest/my_vel_package/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/qiyu1/qiyu1wpb_home_apps/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_07/src/serbot/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_03/wed-team03-proj-master-1526/qz_ws/src/sr_pkg/include/**",
+        "/home/robot/catkin_ws/src/waterplus_map_tools/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_04/wed04_nav_pkg/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_04/wed04_voice_pkg/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_04/wed04_wpb_home_apps/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_02/wed_02_obstacle_detection/include/**",
+        "/home/robot/catkin_ws/src/2021_embedded/wed_02/wed_02_sr_pkg/include/**",
+        "/home/robot/catkin_ws/src/wpb_home_apps/include/**",
+        "/home/robot/catkin_ws/src/wpb_home/wpb_home_bringup/include/**",
+        "/home/robot/catkin_ws/src/wpb_home/wpb_home_tutorials/include/**",
+        "/home/robot/catkin_ws/src/wpb_home/wpbh_local_planner/include/**",
+        "/home/robot/catkin_ws/src/xfyun_kinetic/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

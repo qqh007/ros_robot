@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="ui_pkg" type="ui_pkg" name="node_name1" output="screen"/>
+    <node pkg="ui_pkg" type="sqlite_node" name="another_node" output="screen"></node>
+  
+</launch>

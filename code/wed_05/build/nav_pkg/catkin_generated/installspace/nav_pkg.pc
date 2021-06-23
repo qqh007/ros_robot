@@ -1,0 +1,8 @@
+prefix=/home/robot/catkin_ws/src/2021_embedded/wed_05/install
+
+Name: nav_pkg
+Description: Description of nav_pkg
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
